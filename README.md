@@ -1,2 +1,0 @@
-# DemoMod
-MC Demo mod
