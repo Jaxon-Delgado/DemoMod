@@ -1,4 +1,4 @@
-C:\Users\Jax\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.17.1-37.0.71_mapped_official_1.17.1\forge-1.17.1-37.0.71_mapped_official_1.17.1.jar
+C:\Users\Jax\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.17.1-37.0.71_mapped_official_1.17.1\forge-1.17.1-37.0.71_mapped_official_1.17.1-recomp.jar
 C:\Users\Jax\.gradle\caches\forge_gradle\minecraft_repo\versions\1.17.1\client-extra.jar
 C:\Users\Jax\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar
 C:\Users\Jax\.gradle\caches\modules-2\files-2.1\ca.weblite\java-objc-bridge\1.0.0\6ef160c3133a78de015830860197602ca1c855d3\java-objc-bridge-1.0.0.jar
@@ -14,7 +14,7 @@ C:\Users\Jax\.gradle\caches\modules-2\files-2.1\net.minecraftforge\coremods\5.0.
 C:\Users\Jax\.gradle\caches\modules-2\files-2.1\net.minecraftforge\forgespi\4.0.10\e08fb9a9e485abbbd380516c222e2b502eb0718e\forgespi-4.0.10.jar
 C:\Users\Jax\.gradle\caches\modules-2\files-2.1\cpw.mods\modlauncher\9.0.7\ebe8650527b513823874449e054db053b686b494\modlauncher-9.0.7.jar
 C:\Users\Jax\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\0.1.17\899fb8e3912bb7d14a6f9611de117f77db710ec3\bootstraplauncher-0.1.17.jar
-C:\Users\Jax\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\0.9.53\667b10868e8944d497da121fc7b3b7e399a052ab\securejarhandler-0.9.53.jar
+C:\Users\Jax\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\0.9.54\24b670f2c026ec9777e64a2c2126ebc8635dbe8d\securejarhandler-0.9.54.jar
 C:\Users\Jax\.gradle\caches\modules-2\files-2.1\org.openjdk.nashorn\nashorn-core\15.3\43977e804697048fc8d81d333a36c17d07a5b3dd\nashorn-core-15.3.jar
 C:\Users\Jax\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.1\8b971b182eb5cf100b9e8d4119152d83e00e0fdd\asm-commons-9.1.jar
 C:\Users\Jax\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.1\36464a45d871779f3383a8a9aba2b26562a86729\asm-util-9.1.jar

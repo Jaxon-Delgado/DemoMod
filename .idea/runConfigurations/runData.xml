@@ -7,7 +7,7 @@
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$\run"/>
     <module name="DemoMod.main"/>
     <envs>
-      <env name="MOD_CLASSES" value="tutorialmod%%$PROJECT_DIR$\build\resources\main;tutorialmod%%$PROJECT_DIR$\build\classes\java\main"/>
+      <env name="MOD_CLASSES" value="tutorialmod%%$PROJECT_DIR$\out\production\resources;tutorialmod%%$PROJECT_DIR$\out\production\classes"/>
       <env name="MCP_MAPPINGS" value="official_1.17.1"/>
     </envs>
     <method v="2">
